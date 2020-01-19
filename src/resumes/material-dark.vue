@@ -133,7 +133,7 @@ export default Vue.component(name, getVueOptions(name));
 <style lang="less" scoped>
 .resume {
   font-family:'Roboto' !important;
-  background:#cccccc;
+  background:#b3b6cf;
 }
 a {
   cursor:pointer;
@@ -339,7 +339,7 @@ h4 {
   text-align:left;
   color:#ffffff;
   color:rgba(255,255,255,0.59);
-  background-color:#16151c;
+  background-color:#2f386b;
   overflow:hidden;
   display:block;
   .section-headline {

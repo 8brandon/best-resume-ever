@@ -1,98 +1,87 @@
 /* #*/ export const PERSON = `
 name:
-  first: Brandon  
+  first: Judith 
   middle:
   last: Roberts
-about: Hi, my name is Brandon, and I am a full stack web developer who is passionate about software development and the building of web applications. I switched careers from sales to software development and have worked professionally for 6 months to date. 
-position: Software Developer
+about: 
+position: Associate, Global Mobility 
 
 birth:
-  # year: 1988  
-  location: Victoria, Canada
+  year: May 19, 1989 
+  location: Bremen Germany
 
 experience:
-- company: Code & Co. 
-  position: Software Developer  
-  timeperiod: April 2019 - November 2019
-  description: Worked on a mobile app using React Native. (Positive reference from CEO available)
-  website: https://codeandco.com
+- company: Expath
+  position: German foreign language teacher
+  timeperiod: October 2019 - present
+  description: Onsite German Language Teacher at Get Your Guide
+  website: www.expath.de
 
-- company: Delivery Hero
-  position: Regional Manager
-  timeperiod: November 2015 - July 2018
-  description: Developed Delivery Hero's presensce in keys regions of the UK. (Positive reference from CEO available) 
-  website: https://deliveryhero.com
+- company: Deutsch Akademie
+  position: German foreign language teacher
+  timeperiod: September 2019 - present
+  description: Teaching intensive german classes at Deutsch Akademie 
+  website: www.deutschakademie.de
 
 
-- company: CallBox
-  position: Sales Executive
-  timeperiod: August 2014 - July 2015
-  description: Inform potential new clients about Call Box's services, and closed deals with key accounts.
+- company: Freelance
+  position: German Tutor
+  timeperiod: January 2015 - present
+  description:  Teaching German and Relocation Service
 
 education:
 
-- degree: Full Stack Web Development Bootcamp
-  timeperiod: November 2018 - February 2019
-  description: 12 week immersive onsite bootcamp. Javascript, HTML, CSS, React, Vue.
+- degree: DaF Certificate - Goethe Institut
+  timeperiod: 2017-2019
+  description: Online course to teach German as a foreign language
 
-- degree: Android Nanodegree
-  timeperiod: November 2017 - August 2018
-  description: Udacity Android Nanodegree, in partnership with Google.
+- degree: Bachelor of Arts - Theology
+  timeperiod: 2008-2012
+  description: Martin Bucer Seminar
 
-- degree: Business Administration
-  timeperiod: September 2008 - June 2011
-  description: Camoson College, Victoria, B.C, Canada
-  website: https://camosun.ca
+- degree: Abitur
+  timeperiod: 2005-2008
+  description: Fachgymnasium Gesundheit u. Soziales, Ökotrophologie,
+               Albrecht-Thaer Schule
+  website: 
 # skill level goes 0 to 100
 skills:
-- name: HTML5
+- name: Relocation assistance
   level: 99
-- name: CSS3
-  level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: GraphQL
-  level: 60
-- name: TypeScript
-  level: 80
-- name: Gatsby
-  level: 70
-- name: React
+- name: English C2
   level: 99
-knowledge: Also a passionate tennis & chess player, fluent in German.
+- name: German foreign language
+  level: 99
+- name: Translation
+  level: 99
+  
+knowledge: 
 
 projects:
-- name: Connect-Four
-  platform: React
-  description: Mobile responsive Connect-Four game, made with React.
-  url: https://github.com/8brandon/connect-4
+- name: movingworks
+  description: Translating Subtitles for short english videos into German
+  
 
-- name: React-Shops
-  platform: React
-  description: Ecommerce Website made with React, and payments through Stripe.
-  url: https://github.com/8brandon/react-shop
+- name: Tanzendes Theater Wolfsburg e.V.
+  description: Creating and performing a play with children age 7-15
+  url: www.tanzendestheater.de
 
 hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
-
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
+- name: traveling, muisc, dance, yoga
+  
+- name: 
+  iconClass: 
 
 contributions:
 
 
 contact:
-  email: 8brandon@protonmail.com
-  phone: +49 15223068815
-  street: Berlin (Pankow)
-  city: Berlin  
+  email: 89.judithroberts@gmail.com
+  phone: +49 15786383491
+  street: Breite Str.5
+  city: 13187 Berlin  
   # website: johndoe.com  
-  github: 8brandon
+  github:
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
