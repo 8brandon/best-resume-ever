@@ -3,7 +3,7 @@ name:
   first: Brandon  
   middle:
   last: Roberts
-about: Hi, my name is Brandon, and I am a full stack web developer who is passionate about software development and the building of web applications. I switched careers from sales to software development and have worked professionally for 6 months to date. 
+about: Hi, my name is Brandon, and I am a full stack web developer who is passionate about software development and the building of web applications. My favorite technologies to work with are Javascript, and React.js.
 position: Software Developer
 
 birth:
@@ -11,6 +11,12 @@ birth:
   location: Victoria, Canada
 
 experience:
+- company: No Brain Writing 
+  position: Freelance React-Native Devloper
+  timeperiod: January 2020 - Present
+  description: Building the mobile version of No Brain Writing using React-Native.
+  website: https://www.nobrainwriting.com/
+
 - company: Code & Co. 
   position: Software Developer  
   timeperiod: April 2019 - November 2019
@@ -22,12 +28,6 @@ experience:
   timeperiod: November 2015 - July 2018
   description: Developed Delivery Hero's presensce in keys regions of the UK. (Positive reference from CEO available) 
   website: https://deliveryhero.com
-
-
-- company: CallBox
-  position: Sales Executive
-  timeperiod: August 2014 - July 2015
-  description: Inform potential new clients about Call Box's services, and closed deals with key accounts.
 
 education:
 
