@@ -11,6 +11,12 @@ birth:
   location: Victoria, Canada
 
 experience:
+- company: FRIDAY Insurance S.A.
+  position: Software Engineer (Frontend Focus)
+  timeperiod: April 2020 - Present
+  description: Building and maintaining Friday's Frontend Applications (Tech Stack- TypeScript/React/Redux/AWS/Docker/Kubernetes)
+  website: https://www.friday.de/
+
 - company: No Brain Writing 
   position: Freelance React-Native Devloper
   timeperiod: January 2020 - Present
