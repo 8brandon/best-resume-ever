@@ -24,6 +24,14 @@
                   <i class="fa fa-circle" aria-hidden="true"></i>
                   <i class="fa fa-circle" aria-hidden="true"></i>
               </div>
+                            <div class="contact-row">
+                  <a :href="contactLinks.linkedin">{{person.contact.linkedin}}</a>
+              </div>
+              <div class="contact-row dots">
+                  <i class="fa fa-circle" aria-hidden="true"></i>
+                  <i class="fa fa-circle" aria-hidden="true"></i>
+                  <i class="fa fa-circle" aria-hidden="true"></i>
+              </div>
               <div class="contact-row">
                   <a :href="contactLinks.phone">{{person.contact.phone}}</a>
               </div>
@@ -50,9 +58,14 @@
               <h3>{{ lang.experience }}</h3>
                   <div class="experience-block" v-for="experience in person.experience" :key="experience.company">
                       <div class="row">
-                          <span class="company"> {{experience.company}} -</span>
+                          <span class="company"> {{experience.company}}</span>
+                      </div>
+
+                      
+                      <div class="row">
                           <span class="job-title"> {{experience.position}} </span>
                       </div>
+
                       <div class="row">
                           <span class="time-period"> {{experience.timeperiod}}</span>
                       </div>
@@ -66,6 +79,9 @@
                   <div class="education-block" v-for="education in person.education" :key="education.degree">
                       <div class="row">
                           <span class="degree">{{education.degree}}</span>
+                      </div>
+                        <div class="row">
+                          <span class="degree">{{education.timeperiod}}</span>
                       </div>
                       <div class="row">
                           <span class="degree-description">{{education.description}}</span>

@@ -1,105 +1,87 @@
 /* #*/ export const PERSON = `
 name:
-  first: Brandon  
+  first: Judith
   middle:
   last: Roberts
-about: Hi, my name is Brandon, and I am a full stack web developer who is passionate about software development and the building of web applications. My favorite technologies to work with are Javascript, and React.js.
-position: Software Developer
+# about: Hi, my name is Brandon, and I am a full stack web developer who is passionate about software development and the building of web applications. My favorite technologies to work with are Javascript, and React.js.
+# position:
 
 birth:
-  # year: 1988  
-  location: Victoria, Canada
+  year: 1989
+  location: Bremen, Germany
 
 experience:
-- company: FRIDAY Insurance S.A.
-  position: Software Engineer (Frontend Focus)
-  timeperiod: April 2020 - Present
-  description: Building and maintaining Friday's Frontend Applications (Tech Stack- TypeScript/React/Redux/AWS/Docker/Kubernetes)
-  website: https://www.friday.de/
+- company: Expath / Deutsch Akademie u.a.
+  position: Freiberufliche Lehrkraft DaF 
+  timeperiod: seit Januar 2015
+  # description: Building and maintaining Friday's Frontend Applications (Tech Stack- TypeScript/React/Redux/AWS/Docker/Kubernetes)
+  # website: https://www.friday.de/
 
-- company: No Brain Writing 
-  position: Freelance React-Native Devloper
-  timeperiod: January 2020 - Present
-  description: Building the mobile version of No Brain Writing using React-Native.
-  website: https://www.nobrainwriting.com/
-
-- company: Code & Co. 
-  position: Software Developer  
-  timeperiod: April 2019 - November 2019
-  description: Worked on a mobile app using React Native. (Positive reference from CEO available)
-  website: https://codeandco.com
-
-- company: Delivery Hero
-  position: Regional Manager
-  timeperiod: November 2015 - July 2018
-  description: Developed Delivery Hero's presensce in keys regions of the UK. (Positive reference from CEO available) 
-  website: https://deliveryhero.com
+- company: Moving Works
+  position: Freiberufliche Übersetzerin
+  timeperiod: seit Juli 2017
+  # description: Building the mobile version of No Brain Writing using React-Native.
+  # website: https://www.nobrainwriting.com/
 
 education:
 
-- degree: Full Stack Web Development Bootcamp
-  timeperiod: November 2018 - February 2019
-  description: 12 week immersive onsite bootcamp. Javascript, HTML, CSS, React, Vue.
+- degree: Fort- und Weiterbildung "Deutsch lehren lernen", Goethe Institut 
+  description: 
+  timeperiod: 2017 - 2019
 
-- degree: Android Nanodegree
-  timeperiod: November 2017 - August 2018
-  description: Udacity Android Nanodegree, in partnership with Google.
+- degree: Bachelor of Theology, Christliche Bildungsstätte Fritzlar
+  timeperiod: 2008 - 2012
+  description: 
 
-- degree: Business Administration
-  timeperiod: September 2008 - June 2011
-  description: Camoson College, Victoria, B.C, Canada
-  website: https://camosun.ca
+- degree: Abitur, Fachgymnasium Gesundheit und Soziales, Schwerpunkt Ökotrophologie, Albrecht Thaer Schule
+  timeperiod: 2005-2008
+  # description: Camoson College, Victoria, B.C, Canada
+  # website: https://camosun.ca
 # skill level goes 0 to 100
 skills:
-- name: HTML5
+- name: Unterrichten
   level: 99
-- name: CSS3
+- name: Englisch C2
   level: 95
-- name: JavaScript
+- name: Übersetzung
   level: 97
-- name: Node.js
-  level: 93
-- name: GraphQL
-  level: 60
-- name: TypeScript
-  level: 80
-- name: Gatsby
-  level: 70
-- name: React
-  level: 99
-knowledge: Also a passionate tennis & chess player, fluent in German.
 
-projects:
-- name: Connect-Four
-  platform: React
-  description: Mobile responsive Connect-Four game, made with React.
-  url: https://github.com/8brandon/connect-4
+# knowledge: Also a passionate tennis & chess player, fluent in German.
 
-- name: React-Shops
-  platform: React
-  description: Ecommerce Website made with React, and payments through Stripe.
-  url: https://github.com/8brandon/react-shop
+# projects:
+# - name: Connect-Four
+#   platform: React
+#   description: Mobile responsive Connect-Four game, made with React.
+#   url: https://github.com/8brandon/connect-4
 
-hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
+# - name: React-Shops
+#   platform: React
+#   description: Ecommerce Website made with React, and payments through Stripe.
+#   url: https://github.com/8brandon/react-shop
 
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
+# hobbies:
+# - name: Video Games
+#   iconClass: fa fa-gamepad
+#   url: https://example.com
+
+# - name: Drawing
+#   iconClass: fa fa-pencil
+#   url: https://example.com
 
 contributions:
 
 
 contact:
-  email: 8brandon@protonmail.com
-  phone: +49 15223068815
-  street: Berlin (Pankow)
+  email: 89.judithroberts@gmail.com
+  phone: +49 15786383491
+  street: Breite Str. 5, Berlin 13187
   city: Berlin  
-  # website: johndoe.com  
-  github: 8brandon
+  website: www.linkedin.com/in/judith-roberts-58099b191
+  linkedin: www.linkedin.com/in/judith-roberts-58099b191
+
+  
+  # github: 8brandon
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
-lang: en
+lang: de
 `
 
