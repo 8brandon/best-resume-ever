@@ -3,8 +3,8 @@ name:
   first: Brandon  
   middle:
   last: Roberts
-about: Hi, my name is Brandon, and I am a full stack web developer who is passionate about software development and the building of web applications. My favorite technologies to work with are Javascript, and React.js.
-position: Software Developer
+about: Hi, my name is Brandon, and I am a full stack web developer who is passionate about software development and building web applications. My favorite technologies to work with are TypeScript, Node.js, Docker, and React. I also enjoy contributing to open source projects in my free time.
+position: Software Engineer
 
 birth:
   # year: 1988  
@@ -12,7 +12,7 @@ birth:
 
 experience:
 - company: FRIDAY Insurance S.A.
-  position: Software Engineer (Frontend Focus)
+  position: Software Engineer
   timeperiod: April 2020 - Present
   description: Building and maintaining Friday's Frontend Applications (Tech Stack- TypeScript/React/Redux/AWS/Docker/Kubernetes)
   website: https://www.friday.de/
@@ -26,13 +26,13 @@ experience:
 - company: Code & Co. 
   position: Software Developer  
   timeperiod: April 2019 - November 2019
-  description: Worked on a mobile app using React Native. (Positive reference from CEO available)
+  description: Developed a full stack React Native mobile app. (Positive reference from CEO available)
   website: https://codeandco.com
 
 - company: Delivery Hero
   position: Regional Manager
   timeperiod: November 2015 - July 2018
-  description: Developed Delivery Hero's presensce in keys regions of the UK. (Positive reference from CEO available) 
+  description: Developed Delivery Hero's presensce in key regions of the UK. (Positive reference from CEO available) 
   website: https://deliveryhero.com
 
 education:
@@ -59,38 +59,30 @@ skills:
   level: 97
 - name: Node.js
   level: 93
-- name: GraphQL
-  level: 60
 - name: TypeScript
-  level: 80
-- name: Gatsby
-  level: 70
+  level: 90
 - name: React
   level: 99
+- name: AWS
+  level: 99
+- name: Docker
+  level: 99
+- name: Kubernetes
+  level: 99
+- name: Next.js
+  level: 99
+
 knowledge: Also a passionate tennis & chess player, fluent in German.
 
 projects:
-- name: Connect-Four
-  platform: React
-  description: Mobile responsive Connect-Four game, made with React.
-  url: https://github.com/8brandon/connect-4
+- name: Dendron Design System
+  platform: Typescript/React
+  description: Contributed a POC of a design-system to the fast growing open-source project Dendron. This will be an ongoing contribution, but I was excited to contribute to an open source project that I use daily. Github- https://github.com/dendronhq/dendron/tree/master/packages/dendron-design-system
+  url: https://goofy-jackson-767e07.netlify.app/
 
-- name: React-Shops
-  platform: React
-  description: Ecommerce Website made with React, and payments through Stripe.
-  url: https://github.com/8brandon/react-shop
 
-hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
-
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
 
 contributions:
-
 
 contact:
   email: 8brandon@protonmail.com
